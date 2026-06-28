@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/koder95/school-booking-platform-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/KrawczykDamiann/school-booking-platform-frontend
